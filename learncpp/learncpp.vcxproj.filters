@@ -30,9 +30,6 @@
     <ClCompile Include="Constante.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="arithmetic.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Operators.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -54,9 +51,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Constante.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="arithmetic.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Operators.h">

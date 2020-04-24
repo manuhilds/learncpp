@@ -138,7 +138,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="arithmetic.cpp" />
     <ClCompile Include="Constante.cpp" />
     <ClCompile Include="initialization.cpp" />
     <ClCompile Include="Operators.cpp" />
@@ -147,7 +146,6 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="arithmetic.h" />
     <ClInclude Include="Constante.h" />
     <ClInclude Include="Header_list.h" />
     <ClInclude Include="header_necessity.h" />

@@ -4,4 +4,4 @@
 #include "scientific_notation.h"
 #include "size_types.h"
 #include "Constante.h"
-#include "arithmetic.h"
+#include "Operators.h"

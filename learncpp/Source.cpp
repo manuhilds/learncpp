@@ -14,7 +14,7 @@ int main()
 	//n.show();
 	//Constante c;
 	//c.ball_thingy(100);
-	arithmetic b;
-	b.isEven(4);
+	Operators o;
+	o.show();
 	return 0;
 }
