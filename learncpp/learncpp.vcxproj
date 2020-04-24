@@ -141,6 +141,7 @@
     <ClCompile Include="arithmetic.cpp" />
     <ClCompile Include="Constante.cpp" />
     <ClCompile Include="initialization.cpp" />
+    <ClCompile Include="Operators.cpp" />
     <ClCompile Include="scientific_notation.cpp" />
     <ClCompile Include="size_types.cpp" />
     <ClCompile Include="Source.cpp" />
@@ -151,6 +152,7 @@
     <ClInclude Include="Header_list.h" />
     <ClInclude Include="header_necessity.h" />
     <ClInclude Include="initialization.h" />
+    <ClInclude Include="Operators.h" />
     <ClInclude Include="scientific_notation.h" />
     <ClInclude Include="size_types.h" />
   </ItemGroup>
